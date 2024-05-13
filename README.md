@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy una persona que estudia activamente y busca constantemente<br>cómo enriquecer sus conocimientos.<br>Me gusta trabajar en equipo, tanto cooperar como encargarme de<br>que todo vaya correctamente.<br><br>Recientemente he estudiado herramientas organizativas como Jira,<br>Slack, Draw.io y Figma que me sirven principalmente para poder<br>entender cómo debo programar y aceleran mi manera de trabajo.<br><br>Además de mis conocimientos técnicos que mi fuerte son las<br>herrramientas de desarrollo web. Todo tipo de API JSON, asincronía<br>y frameworks como Astro, React y React Native.
+Soy una persona que estudia activamente y busca constantemente cómo enriquecer sus conocimientos. Me gusta trabajar en equipo, tanto cooperar como encargarme de que todo vaya correctamente.<br>Recientemente he estudiado herramientas organizativas como Jira, Slack, Draw.io y Figma que me sirven principalmente para poder entender cómo debo programar y aceleran mi manera de trabajo.<br>Además de mis conocimientos técnicos que mi fuerte son las herrramientas de desarrollo web. Todo tipo de API JSON, asincronía y frameworks como Astro, React y React Native.
 
 
 ## 🌐 Socials:
